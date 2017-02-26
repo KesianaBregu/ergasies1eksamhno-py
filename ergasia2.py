@@ -8,8 +8,8 @@ if (length != a + b):
 	print "invalid input"
 else :
 	
-	if (x[0] == ')') or (x[-1]== '('):
-	    print False
+	if ( x[0] == ')' ) or ( x[-1]== '(' ):
+	      	 print False
 	elif (a == b):
 		print True
 	else :
